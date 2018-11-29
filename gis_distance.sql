@@ -23,7 +23,7 @@ $BODY$
 --sample table
 --https://opendata.socrata.com/dataset/Country-List-ISO-3166-Codes-Latitude-Longitude/mnkm-8ram
 DROP TABLE IF EXISTS cccountry;
-CREATE TABLE cccountry(
+CREATE TABLE ccountry(
     name varchar(255),
     alpha2_code varchar(10),
     alpha3_code varchar(10),
