@@ -1,0 +1,7 @@
+Image	Red	Green	Blue
+image1	0	5	5
+image2	0	6	4
+image3	3	4	4
+image4	4	4	3
+image5	2	8	0
+image6	1	4	5

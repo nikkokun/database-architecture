@@ -1,0 +1,3 @@
+/home/knagato/bin/apriori -o -tr -s40 -c70 -q-1 transaction.txt -
+
+http://www.borgelt.net/apriori.html
